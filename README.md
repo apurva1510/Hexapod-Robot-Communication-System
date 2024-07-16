@@ -20,8 +20,7 @@ This repository contains the communication system developed for a proof-of-conce
     - Bluetooth Programming: Bluetooth-Socket programming in Python.
     - Server-Client Architecture: Python scripting on Raspberry Pi.
       
-- Learning Outcomes
-    This project provided hands-on experience with:
+- Learning Outcomes: This project provided hands-on experience with:
         - Bluetooth-Socket programming.
         - Android app development using Java.
         - Server-client relationship in communication systems.
