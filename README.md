@@ -24,3 +24,5 @@ This repository contains the communication system developed for a proof-of-conce
   - Bluetooth-Socket programming.
   - Android app development using Java.
   - Server-client relationship in communication systems.
+
+PS: I have uploaded the important source files for this project. To view this project in detail, please download the .zip file.
